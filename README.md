@@ -34,7 +34,7 @@ random / time
 Installation and setup
 
 1. Clone the repository
-git clone https://github.com/<your-username>/SecureMessagingProject.git
+git clone https://github.com/janetchristina/Secure-Messaging-Prototype.git
 
 2. Install dependencies
 pip install cryptography
